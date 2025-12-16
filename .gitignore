@@ -32,8 +32,8 @@ venv.bak/
 .venv/
 
 # Streamlit
-.streamlit/
 .streamlit/secrets.toml
+# Keep .streamlit/config.toml for deployment settings
 
 # API Keys and Secrets
 *.env
@@ -80,7 +80,9 @@ logs/
 # Portfolio Data (if you want to keep user data private)
 portfolio_data.json
 user_portfolios/
-*.csv
+portfolio_*.csv
+# Keep example CSVs in examples/ folder
+!examples/*.csv
 
 # Backup files
 *.bak
