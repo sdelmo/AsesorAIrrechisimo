@@ -50,7 +50,7 @@ The application demonstrates advanced prompt engineering techniques to create a 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/sdelmo/vz-portfolio-manager.git
+   git clone https://github.com/sdelmo/AsesorAIrrechisimo.git
    cd portfolio-manager
    ```
 
