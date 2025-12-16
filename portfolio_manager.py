@@ -2,6 +2,14 @@
 AsesorAIrrechisimo - AI-Powered Portfolio Manager
 A Streamlit application with a Venezuelan AI financial advisor personality.
 """
+import sys
+from pathlib import Path
+
+# Add project root to Python path for Streamlit Cloud
+project_root = Path(__file__).parent
+if str(project_root) not in sys.path:
+    sys.path.insert(0, str(project_root))
+
 import streamlit as st
 import logging
 from typing import Optional
