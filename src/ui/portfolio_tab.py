@@ -187,10 +187,10 @@ def _render_portfolio_display() -> None:
             df['Gain/Loss'] = df['Current Value'] - df['Total Value']
             df['Gain/Loss %'] = ((df['Current Price'] / df['avg_price'] - 1) * 100).round(2)
 
-            # Display with current prices
-            display_cols = ['symbol', 'name', 'type', 'quantity', 'avg_price', 'Current Price', 'Current Value', 'Gain/Loss', 'Gain/Loss %', 'notes']
-        else:
-            display_cols = ['symbol', 'name', 'type', 'quantity', 'avg_price', 'Total Value', 'notes']
+        # Display with current prices
+        display_cols = ['symbol', 'name', 'type', 'quantity', 'avg_price', 'Current Price', 'Current Value', 'Gain/Loss', 'Gain/Loss %', 'notes']
+    else:
+        display_cols = ['symbol', 'name', 'type', 'quantity', 'avg_price', 'Total Value', 'notes']
 
     st.dataframe(
         df[display_cols],
