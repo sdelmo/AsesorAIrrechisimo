@@ -1,0 +1,10 @@
+symbol,name,type,quantity,avg_price,notes,added_date
+AGG,iShares Core U.S. Aggregate Bond ETF,ETF,150,98.75,Primary bond holding - 40% of portfolio,2024-01-10
+BND,Vanguard Total Bond Market ETF,ETF,100,72.15,Additional bond diversification,2024-01-10
+TLT,iShares 20+ Year Treasury Bond ETF,ETF,50,92.50,Long-term treasuries for safety,2024-01-15
+VTI,Vanguard Total Stock Market ETF,ETF,60,235.50,Equity exposure - US market,2024-02-01
+VXUS,Vanguard Total International Stock ETF,ETF,40,62.30,International stocks,2024-02-01
+JNJ,Johnson & Johnson,Stock,35,157.80,Defensive healthcare stock,2024-03-01
+PG,Procter & Gamble,Stock,30,152.40,Consumer staples - defensive,2024-03-01
+VNQ,Vanguard Real Estate ETF,ETF,25,88.40,Real estate for diversification,2024-04-01
+SCHD,Schwab U.S. Dividend Equity ETF,ETF,40,26.85,Dividend focus for income,2024-04-15

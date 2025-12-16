@@ -1,0 +1,14 @@
+symbol,name,type,quantity,avg_price,notes,added_date
+QQQ,Invesco QQQ Trust,ETF,80,395.20,Nasdaq-100 exposure - tech heavy,2024-01-05
+VGT,Vanguard Information Technology ETF,ETF,50,548.20,Pure tech sector play,2024-01-05
+NVDA,NVIDIA Corporation,Stock,40,495.30,AI and GPU leader,2024-02-01
+TSLA,Tesla Inc.,Stock,35,242.60,EV and energy storage,2024-02-01
+AAPL,Apple Inc.,Stock,45,175.50,Large cap tech anchor,2024-02-15
+MSFT,Microsoft Corporation,Stock,30,380.25,Cloud and AI growth,2024-02-15
+GOOGL,Alphabet Inc. Class A,Stock,35,142.60,Search and cloud,2024-03-01
+META,Meta Platforms Inc.,Stock,25,474.80,Social media and metaverse,2024-03-01
+AMZN,Amazon.com Inc.,Stock,30,178.20,E-commerce and AWS,2024-03-15
+ARKK,ARK Innovation ETF,ETF,40,45.30,Disruptive innovation focus,2024-04-01
+VB,Vanguard Small-Cap ETF,ETF,35,228.40,Small cap growth potential,2024-04-15
+ICLN,iShares Global Clean Energy ETF,ETF,50,18.25,Clean energy sector bet,2024-05-01
+AGG,iShares Core U.S. Aggregate Bond ETF,ETF,40,98.75,Small bond allocation for balance,2024-05-15

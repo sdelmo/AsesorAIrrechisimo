@@ -1,0 +1,4 @@
+symbol,name,type,quantity,avg_price,notes,added_date
+VTI,Vanguard Total Stock Market ETF,ETF,100,235.50,Core US market exposure,2024-01-15
+AGG,iShares Core U.S. Aggregate Bond ETF,ETF,50,98.75,Bond allocation for stability,2024-01-15
+AAPL,Apple Inc.,Stock,25,175.50,Tech position - strong fundamentals,2024-02-01

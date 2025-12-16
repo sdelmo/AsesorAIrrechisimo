@@ -1,0 +1,14 @@
+symbol,name,type,quantity,avg_price,notes,added_date
+VTI,Vanguard Total Stock Market ETF,ETF,100,235.50,Core equity holding - US market exposure,2024-01-15
+VXUS,Vanguard Total International Stock ETF,ETF,50,62.30,International diversification,2024-01-15
+AGG,iShares Core U.S. Aggregate Bond ETF,ETF,75,98.75,Bond allocation for stability,2024-02-10
+BND,Vanguard Total Bond Market ETF,ETF,60,72.15,Additional fixed income,2024-02-10
+VNQ,Vanguard Real Estate ETF,ETF,30,88.40,Real estate exposure,2024-03-05
+AAPL,Apple Inc.,Stock,25,175.50,Tech position - strong fundamentals,2024-03-15
+MSFT,Microsoft Corporation,Stock,20,380.25,Cloud and AI exposure,2024-03-15
+GOOGL,Alphabet Inc. Class A,Stock,15,142.60,Search and advertising,2024-04-01
+JNJ,Johnson & Johnson,Stock,30,157.80,Healthcare - defensive position,2024-04-10
+VHT,Vanguard Health Care ETF,ETF,20,265.90,Healthcare sector exposure,2024-05-01
+VGT,Vanguard Information Technology ETF,ETF,25,548.20,Tech sector concentration,2024-05-15
+GLD,SPDR Gold Trust,ETF,15,182.40,Hedge against inflation,2024-06-01
+TLT,iShares 20+ Year Treasury Bond ETF,ETF,20,92.50,Long-term treasury exposure,2024-06-15
